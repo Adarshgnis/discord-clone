@@ -1,0 +1,17 @@
+.CallToAction-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    gap: 25px;
+}
+
+.CallToAction-wrapper h3 {
+    font-size: 2rem;
+  font-weight: 700;
+}
+
+.CallToAction-wrapper button {
+    background-color: #324676;
+    color: #ffffff;
+}
